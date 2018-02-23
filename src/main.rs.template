@@ -1,0 +1,6 @@
+/// ans = ?????
+fn main() {
+    let ans;
+    ans = ?????;
+    println!("{}", ans);
+}
